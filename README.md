@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=resultyst" alt="resultyst" /></a> </p>
 
-- 👋 Hi, I’m [Resultyst](https://github.com/Resultyst) a personal brand of [Suryaa07](https://github.com/Suryaa07)
+- 👋 Hi, [Resultyst](https://github.com/Resultyst) is a personal brand of [Suryaa07](https://github.com/Suryaa07)
 
 - 🌱 I’m currently learning **Microsoft Fabric**
 
