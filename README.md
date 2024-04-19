@@ -7,7 +7,7 @@
 
 - 👋 Hi, [Resultyst](https://github.com/Resultyst) is a personal brand of [Suryaa07](https://github.com/Suryaa07)
 
-- 🌱 I’m currently learning **Microsoft Fabric**
+- 🌱 Currently learning **Microsoft Fabric**
 
 - 💬 Ask me about **Artificial Intelligence, Data Science, Data Analysis**
 
