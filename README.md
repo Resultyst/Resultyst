@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning **Microsoft Fabric**
 
-- 💬 Ask me about **Artificial Intelligence, Data Science, Data Analysis**
+- 💬 Ask me about **Artificial Intelligence, Data Science, Data Analysis, LLMs**
 
 - 📫 Reach me by **resultyst@gmail.com**
 
