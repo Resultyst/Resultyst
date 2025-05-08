@@ -7,7 +7,7 @@
 
 - 👋 Hi, [Resultyst](https://github.com/Resultyst) is a personal brand of [Suryaa07](https://github.com/Suryaa07)
 
-- 🌱 Currently learning **AI, LLM, Cloud, Quantum Computing**
+- 🌱 Currently learning **AI, LLM, Cloud Computing**
 
 - 💬 Ask me about **Artificial Intelligence, Data Science, Data Analysis, LLMs**
 
